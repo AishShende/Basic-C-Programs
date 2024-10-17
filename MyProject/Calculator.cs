@@ -11,7 +11,7 @@ namespace MyProject
     {
         static void Main(string[] args)
         {
-            int Add(int num1, int num2)
+            int Add(int num1, int num2) // addition of 2 nos
             {
                 return num1 + num2;
             }

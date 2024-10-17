@@ -47,6 +47,7 @@
     <Compile Include="ConstantOrVowel.cs" />
     <Compile Include="Divisibility.cs" />
     <Compile Include="Maximum.cs" />
+    <Compile Include="PrintOutput.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
